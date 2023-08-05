@@ -6,5 +6,5 @@ function addtocart() {
      const button = document.getElementById("car").innerHTML = "Cart: " + cart;
 }
 function newpage() {
-    window.location.href = '/joe_biden';
+    window.location.href = '/Express/joe_biden';
 }
