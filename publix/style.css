@@ -1,0 +1,14 @@
+
+.product {
+    display: inline-block;
+    width: 200px;
+    margin: 30px;
+}
+
+#car {
+     
+     position: fixed; 
+     right:30px;
+     top: 30px;
+    
+}
