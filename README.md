@@ -1,8 +1,8 @@
 # Express
 its kinda crazy fam NGL
 
-[contacts] ./contacts/contacts.html
+[contacts] ./contacts/index.html
 
-[joe_biden] ./joe_biden/joe_biden.html
+[joe_biden] ./joe_biden/index.html
 
-[real_info] ./real_info/real_info.html
+[real_info] ./real_info/index.html

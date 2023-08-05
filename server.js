@@ -22,10 +22,6 @@ app.get('/joe_biden', (req, res) => {
     res.sendFile(__dirname + '/publix/contacts.html');
   });
 
-  app.get('/send_mail', (req, res) => {
-    res.sendFile(__dirname + '/publix/send_mail.php');
-  });
-
 // Start the server
 app.listen(port, () => {
   console.log(`Server running on http://localhost:${port}`);
